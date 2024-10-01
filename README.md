@@ -1,4 +1,4 @@
-# bloc_05_weather_app
+# Weather App + Bloc State Management
 
 A Weather App made with OpenWeather API using Flutter.
 - used BLoC for State Management.
