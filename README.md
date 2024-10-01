@@ -1,16 +1,8 @@
 # bloc_05_weather_app
 
-A new Flutter project.
+A Weather App made with OpenWeather API using Flutter.
+- used BLoC for State Management.
+- Used clean architecture for proper management of business logic and UI components and network calls.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+* NEXT UPDATE - add screenshots and update UI
